@@ -1,0 +1,4 @@
+- [ ] Create the updated repo based on all of the comments with James 
+- [ ] Make a BOOM PR for the SBPL repo
+- [ ] Test with some real cases processing some days 
+- [ ] Make a proper documentation for the script

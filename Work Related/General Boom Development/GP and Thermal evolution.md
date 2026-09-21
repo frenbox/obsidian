@@ -1,0 +1,4 @@
+- [ ] Create a new repository for GP and thermal evolution estimation
+- [ ] Make a BOOM PR for the GP thermal
+- [ ] Test with some real cases processing some days 
+- [ ] Make a proper documentation for the script
