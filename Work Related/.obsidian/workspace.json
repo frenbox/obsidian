@@ -97,16 +97,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "General Boom Development/Kilonova afterglow SBPL.md",
+                "file": "Daily Worklog/2026-09-25.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Kilonova afterglow SBPL"
+              "title": "2026-09-25"
+            }
+          },
+          {
+            "id": "3b52b7faa8e02481",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Argus Related/Prepare a presentation.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Prepare a presentation"
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -284,20 +298,21 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1a39bd3b668939d4",
+  "active": "5e59448f60b78715",
   "lastOpenFiles": [
+    "Daily Worklog/2026-09-25.md",
+    "Argus Related/Prepare a presentation.md",
+    "General Boom Development/Production Paper.md",
+    "General Boom Development/Kilonova afterglow SBPL.md",
     "General Boom Development/Hyrax Fusion model.md",
     "General Boom Development/GP and Thermal evolution.md",
     "General Boom Development/Fix Panstaars catalog.md",
-    "Daily Worklog/2026-09-25.md",
     "Daily Worklog/2026-09-24.md",
     "Daily Worklog/2026-09-23.md",
     "LIGO Work/RAVEN Review.md",
     "LIGO Work",
     "Daily Worklog/2026-09-22.md",
     "Daily Worklog/2026-09-21.md",
-    "General Boom Development/Production Paper.md",
-    "General Boom Development/Kilonova afterglow SBPL.md",
     "Argus Related/Healpix sharding tests.md",
     "Untitled.base",
     "Untitled.canvas",
