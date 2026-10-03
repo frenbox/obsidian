@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Work Related/Daily Worklog/2026-10-01.md",
+                "file": "Work Related/Daily Worklog/2026-10-02.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-10-01"
+              "title": "2026-10-02"
             }
           }
         ]
@@ -199,10 +199,11 @@
       "bases:Create new base": false
     }
   },
-  "active": "1d0892efa40365c1",
+  "active": "dec6bd786950b5c9",
   "lastOpenFiles": [
-    "Work Related/Daily Worklog/2026-09-30.md",
     "Work Related/Daily Worklog/2026-10-01.md",
+    "Work Related/Daily Worklog/2026-10-02.md",
+    "Work Related/Daily Worklog/2026-09-30.md",
     "Work Related/Daily Worklog/2026-09-29.md",
     "Work Related/Daily Worklog/2026-09-28.md",
     "Work Related/Argus tasks.md",
