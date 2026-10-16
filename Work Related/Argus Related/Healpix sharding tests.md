@@ -2,5 +2,5 @@
 - [x] Create a consumer to consume those alerts
 - [x] Create alert worker with sharded mongo read/write
 - [x] Put a sharded catalog in the database 
-- [ ] Allow crossmatching with the sharded catalog
-- [ ] Run end to end pipeline and compute 
+- [x] Allow crossmatching with the sharded catalog
+- [x] Run end to end pipeline and compute 
