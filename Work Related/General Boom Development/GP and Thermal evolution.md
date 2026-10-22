@@ -1,4 +1,5 @@
-- [ ] Create a new repository for GP and thermal evolution estimation
-- [ ] Make a BOOM PR for the GP thermal
-- [ ] Test with some real cases processing some days 
-- [ ] Make a proper documentation for the script
+- [x] Create a new repository for GP and thermal evolution estimation
+- [x] Make a BOOM PR for the GP thermal
+- [x] Test with some real cases processing some days 
+- [x] Make a proper documentation for the script
+- [ ] Thermal part is currently not there. Need literature review.
