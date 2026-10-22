@@ -36,6 +36,18 @@
             }
           },
           {
+            "id": "89591ff6bf48fc5f",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.14.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.14.4"
+            }
+          },
+          {
             "id": "1de7f6e8ad76cf99",
             "type": "leaf",
             "state": {
@@ -64,7 +76,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -242,7 +254,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d4f07a87ef164953",
+  "active": "89591ff6bf48fc5f",
   "lastOpenFiles": [
     "General Boom Development/Documenting the Fusion model.md",
     "Daily Worklog/2026-10-8  ..  15.md",
