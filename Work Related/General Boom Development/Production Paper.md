@@ -2,6 +2,7 @@
 
 - [ ] Introduction
 	- [ ] Describe the need of new version and good aspects of old and upcoming IR1
+- [ ] BOOM brief description
 - [ ] Machine Learning Classification
 	- [ ] ACAI and BTSBot General description
 	- [ ] Apple Cider fusion model description
@@ -17,5 +18,6 @@
 	- [ ] Utilizing the fits and kafka/babamul query
 - [ ] Host Galaxy association
 - [ ] Followup of external triggers
+- [ ] Throughput testing in new era
 - [ ] Looking forward towards Argus
  
